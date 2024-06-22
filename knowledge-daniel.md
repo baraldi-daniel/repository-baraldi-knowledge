@@ -1,3 +1,3 @@
-Biografia
+Biography
 
-Daniel Baraldi é um engenheiro elétrico nascido em Jaú, São Paulo. Ele é brasileiro e é casado com a Leticia Baraldi. Ele nasceu em 22 de Julho de 1996. Daniel se graduou na FEI (Faculdade de Engenharia Industrial) e fez uma pós-graduação (especialização) lato sensu em Engenharia de Dados e Big Data na Universidade de São Paulo. Ele mora em São Paulo e gosta de correr, assistir filmes e séries de TV e aprender novas coisas. Ele é muito curioso sobre novas tecnologias e linguagens de programação. Ele é careca, sua altura é de 1,79m e ele pesa 92kg.
+Daniel Baraldi is an electrical engineer born in Jaú, São Paulo. He is Brazilian and is married to Leticia Baraldi. He was born on July 22, 1996. Daniel graduated from FEI (Faculty of Industrial Engineering) and did a postgraduate (specialization) lato sensu in Data Engineering and Big Data at the University of São Paulo. He lives in São Paulo and likes running, watching movies and TV series and learning new things. He is very curious about new technologies and programming languages. He is bald, his height is 1.79m and he weighs 92kg.
